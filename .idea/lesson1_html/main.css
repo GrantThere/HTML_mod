@@ -1,0 +1,38 @@
+img {
+    width: 300px;
+    background-color:antiquewhite;
+}
+
+h1 {
+    text-align:center ;
+    background-color: gold;
+}
+
+h2 {
+    text-align:center ;
+}
+
+p {
+    background-color: darkorange;
+    text-align: left;
+}
+
+#Me {
+    background-color: chartreuse;
+}
+
+#L {
+    background-color: aqua;
+}
+
+#B {
+    background-color: crimson;
+}
+
+#M {
+    background-color: darkblue;
+}
+
+#H {
+    background-color: darkolivegreen;
+}
