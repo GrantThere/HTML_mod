@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#Bg {
+    width: 49%;
+}
+
+p {
+    color: white;
+}
+
+ul {
+    background-color: aqua;
+}
+
+#Bil {
+    color: white;
+}
+
+#Sv {
+    color: gold;
+}
+
+#Mar {
+    color: black;
+}
+
+a {
+    font-size: large;
+    background-color: darkolivegreen;
+}
