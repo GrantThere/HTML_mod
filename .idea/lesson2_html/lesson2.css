@@ -1,0 +1,38 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: darkorange;
+    margin: 100px;
+    padding: 100px;
+    box-sizing: border-box;
+}
+
+#AA {
+    box-shadow: #2c2c2c 27px 27px 2px 10px;
+    border: 3px solid grey;
+}
+#BB {
+    box-shadow: #2c2c2c 27px 27px 10px 10px;
+    border: 2px solid grey;
+}
+#CC {
+    box-shadow: #2c2c2c 25px 25px 10px 18px;
+    border: 2px solid grey;
+}
+#DD {
+    box-shadow: #727272 27px 27px 10px 10px;
+    border: 2px solid grey;
+}
+#FF {
+    box-shadow: #727272 27px 27px 10px 10px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+#EE {
+    box-shadow: #2c2c2c 27px 27px 10px 10px;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+
+
+
