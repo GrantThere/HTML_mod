@@ -1,0 +1,32 @@
+h1 {
+    background-color: #892826;
+    color: white;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+div {
+    box-sizing: border-box;
+}
+#d1 {
+    background-color: #c0c0c0;
+    padding: 20px;
+}
+
+#d2 {
+    background-color: #6395ec;
+    padding: 50px 0px;
+}
+
+#d3 {
+    background-color: #6bba67;
+    width: 200px;
+    height: 200px;
+}
+
+#d4 {
+    background-color: #8886ab;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+}
