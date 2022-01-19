@@ -1,0 +1,50 @@
+.back-lightblu {
+    background-color: #2cfff1;
+}
+.back-darkblu {
+    background-color: #000f57;
+}
+.back-lightgrey {
+    background-color: #cccccc;
+}
+.wig-100per {
+    width: 100%;
+}
+.fx {
+    display: flex;
+}
+.just-c {
+    justify-content: center;
+}
+.just-l {
+    justify-content: left;
+}
+.just-b {
+    justify-content: space-between;
+}
+.hegh-30 {
+    height: 40px;
+}
+.hegh-20 {
+    height: 20px;
+}
+.hegh-600 {
+    height: 600px;
+}
+.marg-top-10p {
+    margin-top: 10%;
+}
+.marg-top-1p {
+    margin-top: 1%;
+}
+.marg-rid-1p {
+    margin-right: 1%;
+}
+.bord-rad-10 {
+    border-radius: 10px;
+}
+.bord-lightblu {
+    border: #2cfff1 4px solid;
+}
+
+

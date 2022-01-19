@@ -1,0 +1,273 @@
+body {
+    margin: 0px;
+}
+.top-hed {
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    height: 70px;
+    padding-right: 10%;
+    padding-left: 60%;
+}
+.top-hed-but {
+    width: 20%;
+    height: 20px;
+}
+.middle-hed {
+    height: 200px;
+}
+.middle-hed {
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding-top: 2%;
+}
+.middle-hed-bigbut {
+    width: 20%;
+    height: 80px;
+    margin-left: 10%;
+}
+.middle-hed-small-container {
+    justify-content: center;
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.middle-hed-smallbut {
+    width: 15%;
+    height: 20px;
+    margin-left: 2.5%;
+}
+.hh-hed {
+
+}
+.hh-hed1 {
+
+}
+.hh-hed1-p1 {
+    width: 15%;
+}
+.hh-hed1-p2 {
+    width: 25%;
+}
+.hh-hed1-p3 {
+    width: 10%;
+}
+.hh-hed2 {
+    margin-top: 1%;
+}
+ .hh-hed2-p1 {
+     width: 20%;
+ }
+ .hh-hed2-p2 {
+     width: 10%;
+ }
+ .hh-hed2-p3 {
+     width: 15%;
+ }
+ .hh-hed2-p4 {
+     width: 10%;
+ }
+.hh-hed3-p1 {
+    width: 15%;
+}
+.hh-hed3-p2 {
+    width: 10%;
+}
+.hh-hed3-p3 {
+    width: 5%;
+}
+.hh-hed3-p4 {
+    width: 10%;
+}
+.hh-hed3-p5 {
+    width: 10%;
+}
+.hh-hed3-p6 {
+    width: 15%;
+}
+.hh-hed3-p7 {
+    width: 5%;
+}
+.hh-hed3-p8 {
+    width: 5%;
+}
+.hh-hed4-p1 {
+    width: 10%
+}
+.hh-hed4-p2 {
+    width: 5%
+}
+.hh-hed4-p3 {
+    width: 15%
+}
+.hh-hed4-p4 {
+    width: 5%
+}
+.hh-hed-but1 {
+    width: 30%;
+    height: 80px;
+    border-radius: 40px;
+    margin-top: 10%;
+}
+.cont-high-in {
+    border: #2cfff1 4px solid;
+    width: 80%;
+    height: 80%;
+    border-radius: 80px;
+    margin-top: 4%;
+}
+.cont-high-in-p1 {
+    width: 20%;
+}
+.cont-high-in-p2 {
+    width: 10%;
+}
+.cont-high-in-p {
+    margin-top: 5%;
+}
+.cont-high-in-cards {
+    height: 400px;
+    margin-left: 4%;
+}
+.cont-high-in-card {
+
+}
+.cont-high-in-im {
+    width: 70%;
+    height: 40%;
+    margin-top: 15%;
+}
+.cont-high-in-card-p {
+ margin-left: 7%;
+}
+.cont-high-in-card-p1 {
+    width: 35%;
+}
+.cont-high-in-card-p2 {
+    width: 20%;
+}
+.card-ow {
+    width: 30%;
+    height: 80%;
+    margin-top: 4%;
+}
+
+.small-logo {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-top: 8%;
+    margin-left: 24%;
+    margin-right: 24%;
+}
+.card-ow-p1 {
+    width: 30%;
+
+}
+.card-ow-p2 {
+    width: 20%;
+}
+.card-ow-p {
+    margin-top: 5%;
+}
+.card-ow-pp1 {
+    width: 20%;
+
+}
+.card-ow-pp2 {
+    width: 10%;
+}
+.ppp-1 {
+    width: 10%;
+    margin-top: 5%;
+}
+.ppp-2 {
+    width: 10%;
+    margin-top: 5%;
+}
+.ppp {
+    height: 200px;
+}
+.cont-main {
+
+}
+.cont-main-cards {
+    box-sizing: border-box;
+    padding: 0.5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    width: 25%;
+}
+.cont-icon {
+    width: 90%;
+    height: 200px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.cont-main-p1 {
+
+}
+.cont-main-p1-1 {
+    width: 30%;
+    margin-top: 1%;
+}
+.cont-main-p1-2 {
+    width: 10%;
+    margin-top: 1%;
+    margin-left: 40%;
+}
+.cont-main-p1-3 {
+    width: 10%;
+    margin-top: 2%;
+}
+.cont-main-p2-1 {
+    width: 30%;
+}
+.cont-main-p2-2 {
+    width: 10%;
+}
+.cont-main-p2-3 {
+    width: 15%;
+}
+.cont-main-p2-4 {
+    width: 10%;
+}
+.cont-main-p3-1 {
+    width: 40%;
+}
+.cont-main-p3-2 {
+    width: 20%;
+}
+.cont-main-p3-3 {
+    width: 30%;
+}
+.con1 {
+    width: 40%;
+}
+.con2 {
+    width: 10%;
+    border-radius: 50%;
+    margin-left: 35%;
+}
+.con3 {
+    width: 10%;
+    border-radius: 50%;
+}
+.top-hed {
+    padding: 5%;
+}
+.header-c {
+    height: 300px;
+}
+.hed-hed {
+    width: 50%;
+    margin: 5% 3% 25% 25%;
+}
+.heh-m {
+    width: 50px;
+    height: 50px;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
