@@ -1,0 +1,77 @@
+.main_wrp {
+    width: 1440px;
+    margin: 0 auto;
+}
+.xsmall_txt {
+    font-size: 14px;
+    line-height: 24px;
+}
+.small_txt {
+    font-size: 16px;
+    line-height: 24px;
+}
+.med_txt {
+    font-size: 22px;
+    line-height: 32px;
+}
+.med24_txt {
+    font-size: 24px;
+    line-height: 32px;
+}
+.xmed_txt {
+    font-size: 34px;
+    line-height: 40px;
+}
+.larg_txt {
+    font-size: 42px;
+    line-height: 48px;
+}
+.butt_size {
+    height: 54px;
+    border-radius: 4px;
+}
+.back_yel {
+    background-color: var(--yel-color);
+}
+.bac_n {
+    background: none;
+    width: 154px;
+    height: 56px;
+    margin-bottom: 16px;
+}
+.cntnt_txt {
+    font-size: 17px;
+    line-height: 28px;
+    width: 484px;
+    margin-top: 29px;
+    margin-bottom: 64px;
+}
+.cnt_but {
+    width: 144px;
+    border: 1px solid #0B2330;
+    background: none;
+}
+.contento_mgn {
+    margin-bottom: 97px;
+    margin-top: 121px;
+}
+.disp {
+    display: flex;
+    justify-content: space-between;
+}
+.al_it {
+    align-items: center;
+}
+.why {
+    color: #94A0A4;
+    margin-top: 14px;
+}
+.yel_txt {
+    color: #F9C600;
+}
+.small_logo {
+    width: 28px;
+    height: 28px;
+    background: none;
+}
+
